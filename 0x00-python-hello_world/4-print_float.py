@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-float: 3.14
-print(f"{float :d} pie")
+number = 3.14
+print(f"{float: 3.14}")
